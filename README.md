@@ -1,5 +1,17 @@
 ### Boston House Pricing Prediction
 
+# Create a new environment
+```
+conda create -p venv python==3.7 -y
+```
+# Run app.py 
+```
+python app.py
+```
+Open http://127.0.0.1:5000 on your browser. Fill the form. Hit "Predict".
+
+
+----------------------------------------------------------------------------------------------------
 ### Softwares and tools requirements
 
 1. [Github Account](https://github.com)
